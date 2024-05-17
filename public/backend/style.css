@@ -1,0 +1,68 @@
+.nav-tabs-left ul li{	width: 100%;float: left;border-bottom: 1px #ccc solid;}
+.padding-right-0{padding-right: 0;}
+.padding-left-0{padding-left: 0;}
+.nav-tabs-left .nav-tabs li.active,.nav-tabs-left .nav-tabs li.active a {background-color: #ddd!important}
+.li-2-layer{padding-left: 30px !important;}
+.li-3-layer{padding-left: 60px !important;}
+.li-4-layer{padding-left: 90px !important;}
+.li-5-layer{padding-left: 120px !important;}
+.li-6-layer{padding-left: 150px !important;}
+.skin-green .main-header .logo{background-color:#3b5998;}
+.skin-green .main-header .logo:hover{background-color:#3b5998}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{padding: 5px;}
+.table > tbody > tr > td {
+	vertical-align: middle;
+}
+.form-group img{max-width: 200px;background:#ccc;height:auto;border: 1px #ccc solid;}
+td table.table{margin-bottom: 0}
+@media only screen and (min-width:980px) {
+.content-wrapper, .right-side, .main-footer{margin-left: 180px}
+.main-sidebar, .left-side,.main-header .logo{width: 180px}
+}
+.seo-check-ul{
+	list-style: none;
+	padding: 0;
+}
+.seo-check-ul .seo-check{
+	color: #ccc;
+}
+.seo-check-ul .seo-check .fa{
+	float: left;
+	margin-right: 5px;
+	margin-top: 3px;
+}
+.seo-check-ul .seo-check .fa-check-circle-o{
+	display: none;
+	
+}
+.seo-check-ul .seo-check .fa-circle-o{
+	display: block;
+	
+}
+.seo-check-ul .seo-check.active{
+	color: #3c8dbc;
+}
+.seo-check-ul .seo-check.active .fa-check-circle-o{
+	display: block;
+}
+.seo-check-ul .seo-check.active .fa-circle-o{
+	display: none;
+}
+.diem-seo{}
+.diem-seo .label{display: none;}
+.sidebar-menu>li>a{
+    padding: 12px 5px 12px 8px;
+    font-size: 12px;
+    }
+    .skin-green .sidebar-menu>li.header{
+    padding: 8px 25px 5px 10px;
+    font-size: 12px;
+    color: #8a8989;
+    font-weight: 600;
+}
+.sidebar-menu>li>a>.fa{width:15px}
+@media only screen and (max-width:480px) {
+	.content-header>h1{overflow: auto;line-height: 2}
+	.nav>li>a {padding: 10px 5px;}
+}
+.ui-tooltip{display: none!important;}

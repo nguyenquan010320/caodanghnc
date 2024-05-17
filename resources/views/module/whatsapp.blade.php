@@ -1,0 +1,1 @@
+@ifnotempty('so-whatsapp')<a rel="nofollow" href="http://wa.me/@site('so-whatsapp')" target="_blank" class="btn-whatsapp-noi"><img src="/frontend/image/whatsapp.png" alt="nut-zalo"></a>@endif
